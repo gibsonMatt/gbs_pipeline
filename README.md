@@ -1,5 +1,5 @@
 # Jaltomata BC1 population GBS data processing using TASSEL GBS v2 Pipeline
-Trying to build a better map than the current version
+Trying to build a better map than the [current version](https://github.com/gibsonMatt/jaltomataQTL)
 
 ## GBSSeqTpTagDBPlugin
 
